@@ -1,6 +1,6 @@
 ### Hello there 👋
 
-#### A Full-Stack Developer by day ☼ and a builder of scalable systems by night ☾
+#### A Software Developer by day ☼ and a builder of scalable systems by night ☾
 
 Software Developer at [Yeb](https://www.yeb.com.br/);<br>
 Working with web applications, APIs, automations, and legacy system modernization;<br>
