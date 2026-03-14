@@ -1,16 +1,29 @@
-## Hi there 👋
+### Hello there 👋
 
-<!--
-**viniciuslft/viniciuslft** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+#### A Full-Stack Developer by day ☼ and a builder of scalable systems by night ☾
 
-Here are some ideas to get you started:
+Software Developer at [Yeb](https://www.yeb.com.br/);<br>
+Working with web applications, APIs, automations, and legacy system modernization;<br>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- ⚙️ I use daily: `.php`, `.tsx`, `.js`, `.react`, `.next`, `.laravel`, `.node`, `.python`, `.sql`, `.docker`
+- 🌍 I'm focused on building reliable web applications, APIs, and internal tools
+- 🛠️ I enjoy improving delivery workflows, organizing front-end architecture, and integrating systems
+- 💬 `ping` me about **laravel**, **react**, **typescript**, **apis**, **automation**, **ci/cd**
+
+```javascript
+const vinicius = {
+  role: "Software Developer",
+  location: "Rio Claro, SP - Brazil",
+  code: ["PHP", "Laravel", "JavaScript", "TypeScript", "React", "Next.js", "Vue", "Node.js", "Python", "SQL"],
+  tools: ["Docker", "GitHub Actions", "Vercel", "AWS", "MySQL", "PostgreSQL", "Jest", "Vitest", "PHPUnit", "Pest"],
+  focus: [
+    "REST APIs",
+    "system integrations",
+    "CI/CD pipelines",
+    "data automation",
+    "legacy system modernization",
+    "front-end architecture"
+  ],
+  currently: "Building better products and improving development workflows",
+  funFact: "Most bugs disappear after a coffee and a clean commit history"
+}
