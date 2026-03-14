@@ -2,8 +2,12 @@
 
 #### A Software Developer by day ☼ and a builder of scalable systems by night ☾
 
-Software Developer at [Yeb](https://www.yeb.com.br/);<br>
-Working with web applications, APIs, automations, and legacy system modernization;<br>
+<p>
+  <em>
+    Software Developer at <a href="http://www.yeb.com.br">Yeb</a>;<br>
+    Working with web applications, APIs, automations, and legacy system modernization;
+  </em>
+</p><br>
 
 - ⚙️ I use daily: `.php`, `.tsx`, `.js`, `.react`, `.next`, `.laravel`, `.node`, `.python`, `.sql`, `.docker`
 - 🌍 I'm focused on building reliable web applications, APIs, and internal tools
