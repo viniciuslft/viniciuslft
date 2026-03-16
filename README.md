@@ -11,7 +11,7 @@
 
 👇 Just run, and get to know me in a more creative way, right from the terminal.
 
-```bash
+```javascript
 npx viniciuslft
 ```
 
