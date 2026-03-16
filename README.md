@@ -9,6 +9,12 @@
   </em>
 </p>
 
+👇 Just run, and get to know me in a more creative way, right from the terminal.
+
+```bash
+npx viniciuslft
+```
+
 - ⚙️ I use daily: `.php`, `.tsx`, `.js`, `.react`, `.next`, `.laravel`, `.node`, `.python`, `.sql`, `.docker`
 - 🌍 I'm focused on building reliable web applications, APIs, and internal tools
 - 🛠️ I enjoy improving delivery workflows, organizing front-end architecture, and integrating systems
